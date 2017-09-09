@@ -13,4 +13,4 @@
 
 > Data Science making world more better place.
 
-[Image of Data cover] (https://github.com/basavarajp/basavarajp.github.io/images/datacover.png)
+![Image of Data cover] (https://github.com/basavarajp/basavarajp.github.io/images/datacover.png)
