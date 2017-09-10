@@ -2,11 +2,6 @@
 ---
 
 @import "jekyll-theme-minimal";
-body {
-  margin-top: 0.2vw !important;
-  background-color: #f55 !important;
-}
-
 img{
   border-radius:20%;
   margin:0.4vw;
@@ -31,19 +26,6 @@ img{
 .top_pics img{
   height:30vw;
   width: 25vw;
-}
-h1,h2{
-  color: #808 !important;
-  background-color:#ddd;
-  border-radius:2vw;
-  padding: 1vw 1vw 1vw 1vw;
-  text-align:center;
-}
-h1{
-    font-size:4vw !important;
-}
-h2{
-    font-size:2vw !important;
 }
 
 #timeline{
