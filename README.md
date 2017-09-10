@@ -11,6 +11,4 @@
   - Animal food supply agency
   - KLP
 
-> Data Science making world more better place.
-
-![Image of Datacover](https://github.com/basavarajp/basavarajp.github.io/blob/master/assets/datacover.png)
+> "Data Science making world MORE better place."
