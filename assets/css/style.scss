@@ -1,0 +1,72 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+body {
+  margin-top: 0.2vw !important;
+  background-color: #f55 !important;
+}
+
+img{
+  border-radius:20%;
+  margin:0.4vw;
+}
+
+#social_links li,.top_pics li, #counter li{
+  display:inline;
+  float:left;
+}
+#social_links, #counter{
+  font-size:2.5vw;
+  color: #404;
+}
+
+#social_links img{
+  width:3vw;
+  height:3vw;
+  border-radius:25%;
+  margin:1vw 1vw 1vw 1vw;
+}
+
+.top_pics img{
+  height:30vw;
+  width: 25vw;
+}
+h1,h2{
+  color: #808 !important;
+  background-color:#ddd;
+  border-radius:2vw;
+  padding: 1vw 1vw 1vw 1vw;
+  text-align:center;
+}
+h1{
+    font-size:4vw !important;
+}
+h2{
+    font-size:2vw !important;
+}
+
+#timeline{
+  font-size: 2vw;
+  color: #c4c;
+}
+
+.secondImage{
+  width:40vw !important;
+  height:30vw !important;
+}
+
+.container{
+  margin:0.2vh 6.5vw 0.2vh 6.5vw !important;
+  overflow:hidden;
+}
+
+.jumbotron{
+  overflow:hidden;
+}
+
+abbr {
+  border-bottom: none !important;
+  cursor: inherit !important;
+  text-decoration: none !important;
+}
